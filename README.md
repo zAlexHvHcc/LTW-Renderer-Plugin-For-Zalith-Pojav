@@ -14,6 +14,8 @@ Este **plugin renderer** lleva la experiencia de juego a otro nivel. Compatible 
 
 ### 🚀 Características
 
+- **Compatibilidad con muchos mods**: LTW Renderer es compatible con **Sodium**, un mod gráfico muy popular para Minecraft que mejora el rendimiento en sistemas con OpenGL 4.6.
+- **Versión OpenGL 4.6**: El plugin está optimizado para **OpenGL 4.6**, ofreciendo un rendimiento gráfico excelente y mejorando la estabilidad en los dispositivos Android.
 - **Renderizado avanzado**: El plugin optimiza el rendimiento gráfico para ofrecer una experiencia visual más rica sin sacrificar el rendimiento.
 - **Compatibilidad con shaders**: LTW Renderer es perfecto para usar shaders sin afectar el rendimiento general del juego.
 - **Activación automática**: Se activa de manera automática al iniciar Zalith Launcher o PojavGlow, no hay que configurar nada extra.
@@ -47,18 +49,18 @@ Este plugin está en **fase de leak**, lo que significa que está en versión fi
 
 ### 📲 **Screenshots del plugin**
 
-**Con LTW Renderer activado**  
-![LTW Renderer Screenshot](https://github.com/zAlexHvHcc/ThunderHack-17-for-Pojav-1.21x-17/raw/main/Screenshot_20250322_230608.jpg)
+**App Instalada:**
+![App Instalada](https://github.com/zAlexHvHcc/LTW-Renderer-Plugin-For-Zalith-Pojav/blob/main/Screenshot_20250410_094057_Package%20installer.jpg)
 
 ---
 
-**Antes de LTW Renderer**  
-![LTW Renderer Screenshot 2](https://github.com/zAlexHvHcc/ThunderHack-1.7-for-Zalith-Glow-1.21x/raw/main/Screenshot_20250322_230707.jpg)
+**Instalado:**
+![Instalado](https://github.com/zAlexHvHcc/LTW-Renderer-Plugin-For-Zalith-Pojav/blob/main/Screenshot_20250410_093952_LTW%20Renderer.jpg)
 
 ---
 
-**Desactivado LTW Renderer**  
-![LTW Renderer Screenshot 3](https://github.com/zAlexHvHcc/ThunderHack-17-for-Pojav-1.21x-17/raw/main/Screenshot_20250322_235107.jpg)
+**Instalado:**
+![Instalado](https://github.com/zAlexHvHcc/LTW-Renderer-Plugin-For-Zalith-Pojav/blob/main/Screenshot_20250410_094037.jpg)
 
 ---
 
@@ -72,7 +74,7 @@ Este plugin está en **fase de leak**, lo que significa que está en versión fi
 
 ### 📥 **Descargar LTW Renderer APK** 
 
-- **[Descarga LTW Renderer APK (Filtrada)](https://github.com/zAlexHvHcc/ltw-renderer/releases)**
+- **[Descarga LTW Renderer APK (Filtrada)](https://github.com/zAlexHvHcc/LTW-Renderer-Plugin-For-Zalith-Pojav/releases/download/LTW/LTW.Renderer_1.0.apk)**
 
 ---
 
