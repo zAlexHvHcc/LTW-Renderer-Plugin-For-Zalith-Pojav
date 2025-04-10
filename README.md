@@ -1,4 +1,4 @@
-<h1 align="center">🔥 LTW Renderer para Zalith Launcher / PojavGlow 🔥</h1>
+<h1 align="center">🔥 LTW Renderer for Zalith Launcher / PojavGlow 🔥</h1>
 
 <p align="center">
   <img src="https://github.com/zAlexHvHcc/zAlexHvHcc/raw/main/pic1.png" alt="LTW Renderer" width="180" style="border-radius: 15px;" />
@@ -6,66 +6,66 @@
 
 ---
 
-### 🎮 LTW Renderer - Plugin para Zalith Launcher y PojavGlow 🎮
+### 🎮 LTW Renderer - Plugin for Zalith Launcher and PojavGlow 🎮
 
-**LTW Renderer** es un plugin diseñado para mejorar la experiencia de juego en **Zalith Launcher** y **PojavGlow**, ofreciendo características avanzadas de renderizado y compatibilidad con diversos mods.
-
----
-
-### 🚀 Características
-
-- **Compatibilidad con múltiples mods**: LTW Renderer es compatible con una amplia gama de mods, incluyendo **Sodium**, un mod gráfico que mejora el rendimiento en sistemas con OpenGL 4.6. 
-- **Optimización para OpenGL 4.6**: El plugin está optimizado para **OpenGL 4.6**, proporcionando un rendimiento gráfico superior y mejorando la estabilidad en dispositivos Android.
-- **Renderizado avanzado**: Mejora la calidad visual del juego sin comprometer el rendimiento, ofreciendo una experiencia más rica y fluida.
-- **Compatibilidad con shaders**: Permite el uso de shaders sin afectar negativamente el rendimiento general del juego.
-- **Activación automática**: Se activa automáticamente al iniciar Zalith Launcher o PojavGlow, sin necesidad de configuraciones adicionales.
-- **Mejoras en texturas**: Optimiza la calidad de las texturas, mejorando su detalle sin consumir más recursos.
-- **Modificación en tiempo real**: Permite realizar cambios dinámicos durante la ejecución del juego sin necesidad de reiniciarlo.
+**LTW Renderer** is a plugin designed to enhance the gaming experience in **Zalith Launcher** and **PojavGlow**, offering advanced rendering features and compatibility with various mods.
 
 ---
 
-### ⚠️ **Importante** ⚠️
+### 🚀 Features
 
-Este plugin se encuentra en **fase de leak**, lo que implica que está en una versión filtrada. Aunque ha demostrado ser funcional en las últimas versiones de **Zalith Launcher** y **PojavGlow**, su uso es bajo tu propio riesgo.
-
----
-
-### 💥 ¿Cómo instalar?
-
-1. **Descarga el archivo APK** desde la sección de releases.
-2. Abre el archivo APK e instala el plugin en tu dispositivo Android.
-3. Inicia **Zalith Launcher** o **PojavGlow**; LTW Renderer se activará automáticamente.
+- **Compatibility with multiple mods**: LTW Renderer is compatible with a wide range of mods, including **Sodium**, a graphics mod that improves performance on systems with OpenGL 4.6. 
+- **Optimized for OpenGL 4.6**: The plugin is optimized for **OpenGL 4.6**, providing superior graphical performance and improving stability on Android devices.
+- **Advanced rendering**: Enhances the visual quality of the game without compromising performance, offering a richer and smoother experience.
+- **Shader compatibility**: Allows the use of shaders without negatively affecting the overall game performance.
+- **Automatic activation**: Automatically activates when starting Zalith Launcher or PojavGlow, with no additional configuration required.
+- **Texture improvements**: Optimizes texture quality, enhancing detail without consuming more resources.
+- **Real-time modification**: Allows dynamic changes during game execution without needing to restart.
 
 ---
 
-### 🔹 **Requisitos** 🔹
+### ⚠️ **Important** ⚠️
 
-- **Zalith Launcher** o **PojavGlow** instalados en tu dispositivo.
-- Android 7.0 o superior.
-- Espacio libre de almacenamiento: 50 MB.
+This plugin is in **leak phase**, meaning it is a leaked version. While it has proven to be functional in the latest versions of **Zalith Launcher** and **PojavGlow**, use it at your own risk.
 
 ---
 
-### 📲 **Capturas de pantalla del plugin**
+### 💥 How to install?
 
-**Instalación del plugin:**
-![Instalación del plugin](https://github.com/zAlexHvHcc/LTW-Renderer-Plugin-For-Zalith-Pojav/blob/main/Screenshot_20250410_094057_Package%20installer.jpg)
-
----
-
-**Plugin instalado y activo:**
-![Plugin instalado](https://github.com/zAlexHvHcc/LTW-Renderer-Plugin-For-Zalith-Pojav/blob/main/Screenshot_20250410_093952_LTW%20Renderer.jpg)
+1. **Download the APK file** from the releases section.
+2. Open the APK file and install the plugin on your Android device.
+3. Launch **Zalith Launcher** or **PojavGlow**; LTW Renderer will activate automatically.
 
 ---
 
-**Configuración del plugin:**
-![Configuración del plugin](https://github.com/zAlexHvHcc/LTW-Renderer-Plugin-For-Zalith-Pojav/blob/main/Screenshot_20250410_094037.jpg)
+### 🔹 **Requirements** 🔹
+
+- **Zalith Launcher** or **PojavGlow** installed on your device.
+- Android 7.0 or higher.
+- Free storage space: 50 MB.
 
 ---
 
-### 📥 **Descargar LTW Renderer APK**
+### 📲 **Screenshots of the plugin**
 
-- **[Descargar LTW Renderer APK (Versión filtrada)](https://github.com/zAlexHvHcc/LTW-Renderer-Plugin-For-Zalith-Pojav/releases/download/LTW/LTW.Renderer_1.0.apk)**
+**Plugin Installation:**
+![Plugin Installation](https://github.com/zAlexHvHcc/LTW-Renderer-Plugin-For-Zalith-Pojav/blob/main/Screenshot_20250410_094057_Package%20installer.jpg)
+
+---
+
+**Plugin installed and active:**
+![Plugin Installed](https://github.com/zAlexHvHcc/LTW-Renderer-Plugin-For-Zalith-Pojav/blob/main/Screenshot_20250410_093952_LTW%20Renderer.jpg)
+
+---
+
+**Plugin Configuration:**
+![Plugin Configuration](https://github.com/zAlexHvHcc/LTW-Renderer-Plugin-For-Zalith-Pojav/blob/main/Screenshot_20250410_094037.jpg)
+
+---
+
+### 📥 **Download LTW Renderer APK**
+
+- **[Download LTW Renderer APK (Leaked Version)](https://github.com/zAlexHvHcc/LTW-Renderer-Plugin-For-Zalith-Pojav/releases/download/LTW/LTW.Renderer_1.0.apk)**
 
 ---
 
